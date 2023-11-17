@@ -3,7 +3,7 @@
 Create haiku-inspired poems using book titles from the Norwegian National Library's collection.
 
 ## See it live
-Try it out yourself on https://bookshelfpoetry.azurewebsites.net/
+Try it out yourself on https://bookshelfpoetry.azurewebsites.net/ (you may need to be patient and refresh the site, it's hosted for free on Azure)
 
 ## How It Works
 
